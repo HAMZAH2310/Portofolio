@@ -1,0 +1,35 @@
+{
+  "Navigation": {
+    "home": "Beranda",
+    "project": "Proyek",
+    "about": "Tentang",
+    "themeLight": "Terang",
+    "themeDark": "Gelap"
+  },
+  "Hero": {
+    "greeting": "Halo, saya Hamzah",
+    "title": "Web Developer",
+    "description": "Menciptakan solusi digital yang efisien dan stabil untuk membantu berbagai bidang usaha."
+  },
+  "Project": {
+    "title": "Proyek Pilihan",
+    "name": "Post Automation",
+    "description": "Platform otomasi konten untuk mengunggah foto dan video ke berbagai media sosial secara bersamaan.",
+    "status": "Sedang Berjalan",
+    "viewGithub": "Lihat di GitHub",
+    "benefits": "Manfaat Proyek",
+    "benefit1": "Unggah ke banyak platform sekali klik",
+    "benefit2": "Mendukung format foto dan video kualitas tinggi",
+    "benefit3": "Manajemen penjadwalan dan antrean otomatis"
+  },
+  "Skills": {
+    "title": "Keahlian"
+  },
+  "About": {
+    "title": "Tentang Saya",
+    "description": "Saya adalah seorang Web Developer dengan pengalaman 1+ tahun. Fokus utama saya adalah menciptakan website yang membantu bisnis menjadi lebih efisien dan stabil melalui teknologi yang tepat."
+  },
+  "Social": {
+    "title": "Hubungi Saya"
+  }
+}

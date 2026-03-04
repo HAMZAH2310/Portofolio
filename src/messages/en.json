@@ -1,0 +1,35 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "project": "Project",
+    "about": "About",
+    "themeLight": "Light",
+    "themeDark": "Dark"
+  },
+  "Hero": {
+    "greeting": "Hello, I'm Hamzah",
+    "title": "Web Developer",
+    "description": "Creating efficient and stable digital solutions to help various business sectors."
+  },
+  "Project": {
+    "title": "Selected Project",
+    "name": "Post Automation",
+    "description": "A content automation platform to upload photos and videos to multiple social media channels simultaneously.",
+    "status": "In Progress",
+    "viewGithub": "View on GitHub",
+    "benefits": "Project Benefits",
+    "benefit1": "One-click multi-platform uploading",
+    "benefit2": "Supports high-quality photo and video formats",
+    "benefit3": "Automated scheduling and queue management"
+  },
+  "Skills": {
+    "title": "Core Skills"
+  },
+  "About": {
+    "title": "About Me",
+    "description": "I'm a Web Developer with 1+ years of experience. My primary goal is to create websites that help businesses become more efficient and stable through the right technology."
+  },
+  "Social": {
+    "title": "Connect with Me"
+  }
+}
