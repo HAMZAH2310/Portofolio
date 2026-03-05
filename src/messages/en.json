@@ -12,15 +12,30 @@
     "description": "Creating efficient and stable digital solutions to help various business sectors."
   },
   "Project": {
-    "title": "Selected Project",
-    "name": "Post Automation",
-    "description": "A content automation platform to upload photos and videos to multiple social media channels simultaneously.",
-    "status": "In Progress",
+    "title": "Selected Projects",
     "viewGithub": "View on GitHub",
+    "viewDemo": "View Live Demo",
     "benefits": "Project Benefits",
-    "benefit1": "One-click multi-platform uploading",
-    "benefit2": "Supports high-quality photo and video formats",
-    "benefit3": "Automated scheduling and queue management"
+    "items": {
+      "postAutomation": {
+        "name": "Post Automation",
+        "link": "https://github.com/HAMZAH2310/post_ai_automation",
+        "description": "A content automation platform to upload photos and videos to multiple social media channels simultaneously.",
+        "status": "In Progress",
+        "benefit1": "One-click multi-platform uploading",
+        "benefit2": "Supports high-quality photo and video formats",
+        "benefit3": "Automated scheduling and queue management"
+      },
+      "project2": {
+        "name": "Weather Apps",
+        "link": "https://weather-apps-example.vercel.app",
+        "description": "A weather application that provides real-time weather information for a specific location.",
+        "status": "Completed",
+        "benefit1": "Real-time weather updates",
+        "benefit2": "5-day weather forecast",
+        "benefit3": "Hourly temperature predictions"
+      }
+    }
   },
   "Skills": {
     "title": "Core Skills"

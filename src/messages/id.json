@@ -13,14 +13,29 @@
   },
   "Project": {
     "title": "Proyek Pilihan",
-    "name": "Post Automation",
-    "description": "Platform otomasi konten untuk mengunggah foto dan video ke berbagai media sosial secara bersamaan.",
-    "status": "Sedang Berjalan",
     "viewGithub": "Lihat di GitHub",
+    "viewDemo": "Lihat Demo Live",
     "benefits": "Manfaat Proyek",
-    "benefit1": "Unggah ke banyak platform sekali klik",
-    "benefit2": "Mendukung format foto dan video kualitas tinggi",
-    "benefit3": "Manajemen penjadwalan dan antrean otomatis"
+    "items": {
+      "postAutomation": {
+        "name": "Post Automation",
+        "link": "https://github.com/HAMZAH2310/post_ai_automation",
+        "description": "Platform otomasi konten untuk mengunggah foto dan video ke berbagai media sosial secara bersamaan.",
+        "status": "Sedang Berjalan",
+        "benefit1": "Unggah ke banyak platform sekali klik",
+        "benefit2": "Mendukung format foto dan video kualitas tinggi",
+        "benefit3": "Manajemen penjadwalan dan antrean otomatis"
+      },
+      "project2": {
+        "name": "Aplikasi Cuaca",
+        "link": "https://weather-apps-example.vercel.app",
+        "description": "Aplikasi cuaca yang memberikan informasi cuaca real-time untuk lokasi tertentu.",
+        "status": "Selesai",
+        "benefit1": "Pembaruan cuaca real-time",
+        "benefit2": "Prakiraan cuaca 5 hari",
+        "benefit3": "Prediksi suhu per jam"
+      }
+    }
   },
   "Skills": {
     "title": "Keahlian"
