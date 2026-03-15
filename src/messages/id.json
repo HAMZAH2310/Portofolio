@@ -34,6 +34,15 @@
         "benefit1": "Pembaruan cuaca real-time",
         "benefit2": "Prakiraan cuaca 5 hari",
         "benefit3": "Prediksi suhu per jam"
+      },
+      "botflow": {
+        "name": "Botflow",
+        "link": "https://botflow-six.vercel.app/",
+        "description": "Web AI Automation yang mengandalkan sistem RAG",
+        "status": "Selesai",
+        "benefit1": "Automasi alur kerja AI",
+        "benefit2": "Pencarian pintar dengan sistem RAG",
+        "benefit3": "Pengolahan data cerdas"
       }
     }
   },

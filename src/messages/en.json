@@ -34,6 +34,15 @@
         "benefit1": "Real-time weather updates",
         "benefit2": "5-day weather forecast",
         "benefit3": "Hourly temperature predictions"
+      },
+      "botflow": {
+        "name": "Botflow",
+        "link": "https://botflow-six.vercel.app/",
+        "description": "Web AI Automation powered by RAG systems",
+        "status": "Completed",
+        "benefit1": "AI workflow automation",
+        "benefit2": "Smart retrieval with RAG system",
+        "benefit3": "Intelligent data processing"
       }
     }
   },

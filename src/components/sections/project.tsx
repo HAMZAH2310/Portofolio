@@ -10,7 +10,7 @@ import Link from "next/link"
 import { motion, AnimatePresence } from "framer-motion"
 import { cn } from "@/lib/utils"
 
-const projectKeys = ["postAutomation", "project2"]
+const projectKeys = ["postAutomation", "project2", "botflow"]
 
 export function ProjectSection() {
   const t = useTranslations("Project")
